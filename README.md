@@ -1,7 +1,7 @@
 Hi and welcome to my GitHub!
 ================================
 
-I am currently in my fourth year of studying software engineering and nearing the completion of my bachelor's degree at LUT-university. I am interested in frontend development and UI & UX design. I have done multiple frontend projects and one full stack project. I am currently learning more about frontend development and React by doing Frontend Mentor challenges on my freetime.
+I am currently in my fourth year of studying software engineering and nearing the completion of my bachelor's degree at LUT university. I am interested in frontend development and UI & UX design. I have done multiple frontend projects and one full stack project. I am currently learning more about frontend development and React by doing Frontend Mentor challenges on my freetime.
 
 
 ### Technologies I have used in my projects or I am familiar with
