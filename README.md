@@ -36,4 +36,4 @@ I am currently in my fourth year of studying software engineering and nearing th
 
 📝Newsletter sign-up form with React and Sass. ✅[Live page](https://joonatankallio.github.io/Newsletter-sign-up-form/) 📂[Link to Repository](https://github.com/JoonatanKallio/Newsletter-sign-up-form)
 
-🛬Mockup landing page with HTML and CSS. ✅[Live page](https://joonatankallio.github.io/odin_landing_page/) 📂[Link to Repository](https://github.com/JoonatanKallio/odin_landing_page)
+🛬Mockup landing page with JavaScript, HTML and CSS. ✅[Live page](https://joonatankallio.github.io/odin_landing_page/) 📂[Link to Repository](https://github.com/JoonatanKallio/odin_landing_page)
