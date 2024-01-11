@@ -29,14 +29,17 @@ I am currently in my fourth year of studying software engineering and nearing th
 <br />
 
 ## Here are my projects 
+
 🗒️Full stack forum application with NodeJS/ExpressJS, MongoDB, React and Cypress. 📂[Link to repository](https://github.com/JoonatanKallio/Fullstack-Project)
 
 📊Statistics webpage with JavaScript and public API. ✅[Live page](https://joonatankallio.github.io/Webstatistic/) 📂[Link to Repository](https://github.com/JoonatanKallio/Webstatistic)
+
+🛬Mockup landing page with JavaScript, HTML and CSS. ✅[Live page](https://joonatankallio.github.io/odin_landing_page/) 📂[Link to Repository](https://github.com/JoonatanKallio/odin_landing_page)
+
+### Frontend Mentor challenges
 
 💳 Bill splitter with React and Sass. ✅[Live page](https://joonatankallio.github.io/Bill-splitter/) 📂[Link to Repository](https://github.com/JoonatanKallio/Bill-splitter)
 
 📝Newsletter sign-up form with React and Sass. ✅[Live page](https://joonatankallio.github.io/Newsletter-sign-up-form/) 📂[Link to Repository](https://github.com/JoonatanKallio/Newsletter-sign-up-form)
 
 ⭐Interactive rating component with React and Sass. ✅[Live page](https://joonatankallio.github.io/Interactive-rating-component/) 📂[Link to Repository](https://github.com/JoonatanKallio/Interactive-rating-component)
-
-🛬Mockup landing page with JavaScript, HTML and CSS. ✅[Live page](https://joonatankallio.github.io/odin_landing_page/) 📂[Link to Repository](https://github.com/JoonatanKallio/odin_landing_page)
