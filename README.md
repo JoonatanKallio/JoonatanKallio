@@ -34,7 +34,7 @@ I am currently in my fourth year of studying software engineering and nearing th
 
 📊Statistics webpage with JavaScript and public API. ✅[Live page](https://joonatankallio.github.io/Webstatistic/) 📂[Link to Repository](https://github.com/JoonatanKallio/Webstatistic)
 
-🛬Mockup landing page with JavaScript, HTML and CSS. ✅[Live page](https://joonatankallio.github.io/odin_landing_page/) 📂[Link to Repository](https://github.com/JoonatanKallio/odin_landing_page)
+🛬Mockup landing page with HTML and CSS. ✅[Live page](https://joonatankallio.github.io/odin_landing_page/) 📂[Link to Repository](https://github.com/JoonatanKallio/odin_landing_page)
 
 ### Frontend Mentor challenges
 
