@@ -40,6 +40,8 @@ I am currently in my fourth year of studying software engineering and nearing th
 
 🛬Mockup landing page with HTML and CSS. ✅[Live page](https://joonatankallio.github.io/odin_landing_page/) 📂[Link to Repository](https://github.com/JoonatanKallio/odin_landing_page)
 
+🌅Mobile weather application with React Native and Expo. 📂[Link to Repository](https://github.com/JoonatanKallio/Mobile-weather-app)
+
 ### Frontend Mentor challenges
 
 💳 Bill splitter with React and Sass. ✅[Live page](https://joonatankallio.github.io/Bill-splitter/) 📂[Link to Repository](https://github.com/JoonatanKallio/Bill-splitter)
