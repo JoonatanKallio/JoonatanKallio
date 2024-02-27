@@ -46,7 +46,7 @@ I am currently in my fourth year of studying software engineering and nearing th
 
 💳 Bill splitter with React and Sass. ✅[Live page](https://joonatankallio.github.io/Bill-splitter/) 📂[Link to Repository](https://github.com/JoonatanKallio/Bill-splitter)
 
-☑️ Multi-step checkout with React and Sass. MOBILE VERSION WIP ✅[Live page](https://joonatankallio.github.io/Multi-step-form/) 📂[Link to Repository](https://github.com/JoonatanKallio/Multi-step-form)
+☑️ Multi-step checkout with React and Sass. ✅[Live page](https://joonatankallio.github.io/Multi-step-form/) 📂[Link to Repository](https://github.com/JoonatanKallio/Multi-step-form)
 
 📝Newsletter sign-up form with React and Sass. ✅[Live page](https://joonatankallio.github.io/Newsletter-sign-up-form/) 📂[Link to Repository](https://github.com/JoonatanKallio/Newsletter-sign-up-form)
 
